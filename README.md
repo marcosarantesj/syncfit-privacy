@@ -38,7 +38,7 @@ Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que
 
 ## 7. Contato
 
-Se tiver dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail: [seu-email@exemplo.com]
+Se tiver dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail: marcosarantesj@gmail.com
 
 ---
 
