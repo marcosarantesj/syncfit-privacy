@@ -15,8 +15,8 @@ All user-entered data (training sheets, days of the week, and exercises) is stor
 In the free version of the app, the user can:
 
 - Create **1 training sheet**
-- Register up to **3 weekdays**
-- Add up to **5 exercises per day**
+- Register unlimited days of the week
+- Add as many exercises as you want
 
 These limits are enforced **locally** and do not involve any data collection.
 
