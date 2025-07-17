@@ -1,6 +1,6 @@
 # Política de Privacidade – Sync Fit
 
-**Última atualização: 1 de junho de 2025**
+**Última atualização: 17 de julho de 2025**
 
 O aplicativo **Sync Fit** respeita sua privacidade e está comprometido com a proteção dos seus dados. Esta Política de Privacidade explica como suas informações são tratadas no aplicativo.
 
