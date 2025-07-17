@@ -38,7 +38,7 @@ This Privacy Policy may be updated occasionally. We recommend checking this page
 
 ## 7. Contact
 
-If you have any questions about this Privacy Policy, contact us at: marcosarantesj@gmail.com
+If you have any questions about this Privacy Policy, contact us at: suporte@arantesds.com
 
 ---
 
