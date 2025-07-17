@@ -14,8 +14,8 @@ Todos os dados inseridos pelos usuários (como fichas de treino, dias da semana 
 
 Na versão gratuita do app, o usuário pode:
 
-- Criar **1 ficha de treino**
-- Cadastrar dias da semana de forma ilimitada
+- Criar fichas de treino
+- Cadastrar dias da semana
 - Adicionar quantos exercícios quiser
 
 Essa limitação é aplicada **localmente** e não envolve coleta de dados.
