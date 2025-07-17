@@ -1,6 +1,6 @@
 # Privacy Policy – Sync Fit
 
-**Last updated: June 1, 2025**
+**Last updated: July 17, 2025**
 
 The **Sync Fit** app respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how your information is handled.
 
