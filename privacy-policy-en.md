@@ -26,7 +26,7 @@ Since the app does not collect personal data, **no information is shared with th
 
 ## 4. In-App Purchases
 
-The Pro version can be unlocked via an In-App Purchase. The purchase is handled by the app store (Google Play or App Store), and **no personal or payment information is accessed or stored by Sync Fit**.
+The Pro version can be unlocked via an In-App Purchase. The purchase is handled by the store, and **no personal or payment information is accessed or stored by Sync Fit**.
 If the user wants to use the Pro features without paying, simply watch a video to unlock the Pro version screen.
 
 ## 5. Security
