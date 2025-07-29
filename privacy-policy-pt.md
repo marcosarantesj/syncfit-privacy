@@ -26,7 +26,7 @@ Como o aplicativo não coleta dados pessoais, **nenhuma informação é comparti
 
 ## 4. Compras no Aplicativo (In-App Purchases)
 
-A versão Pro do app pode ser adquirida por meio de compra interna (In-App Purchase). O processo de compra é gerenciado pela loja de aplicativos (Google Play ou App Store), e **nenhuma informação pessoal ou de pagamento é acessada ou armazenada pelo Sync Fit**.
+A versão Pro do app pode ser adquirida por meio de compra interna (In-App Purchase). O processo de compra é gerenciado pela loja de aplicativos, e **nenhuma informação pessoal ou de pagamento é acessada ou armazenada pelo Sync Fit**.
 Caso o usuário queira usar os recursos Pro sem pagar, basta assistir um vídeo para desbloquear a tela da versão Pro.
 
 ## 5. Segurança
