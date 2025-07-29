@@ -9,6 +9,7 @@ O aplicativo **Sync Fit** respeita sua privacidade e está comprometido com a pr
 O aplicativo **Sync Fit** **não coleta, armazena ou compartilha dados pessoais** dos usuários, como nome, e-mail, localização ou qualquer outra informação identificável.
 
 Todos os dados inseridos pelos usuários (como fichas de treino, dias da semana e exercícios) são armazenados **localmente no dispositivo** e não são enviados para servidores externos.
+Os dados coletados são apenas para mostrar anúncios de terceiros e não ficam salvos em nenhum servidor.
 
 ## 2. Versão Gratuita
 
