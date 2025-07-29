@@ -9,6 +9,7 @@ The **Sync Fit** app respects your privacy and is committed to protecting your p
 The **Sync Fit** app **does not collect, store, or share** any personal information such as name, email, location, or any other identifiable data.
 
 All user-entered data (training sheets, days of the week, and exercises) is stored **locally on the device** and is not sent to any external servers.
+The data collected is only for showing third-party advertisements and is not saved on any server.
 
 ## 2. Free Version
 
